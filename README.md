@@ -3,9 +3,9 @@
 
 
 Welcome to the **iOS Projects Collection** repository!  
-This repo hosts multiple modern iOS apps and components written in Swift using **UIKit**, **SwiftUI**, **Combine**, and more.
+This repo hosts multiple modern iOS apps and components written in Swift using **UIKit**, **SwiftUI**, **Combine**, **StoryBoard** and more.
 
-Each project is organized in its own directory and demonstrates key concepts in iOS development — from networking and animations to data persistence and SwiftUI best practices.
+Each project is organized in its own directory and demonstrates key concepts in iOS development — from api, networking and animations to data persistence and SwiftUI best practices.
 
 ---
 
@@ -37,3 +37,9 @@ Each project is organized in its own directory and demonstrates key concepts in 
    ```bash
    git clone https://github.com/your-username/ios-projects.git
    cd ios-projects
+
+## 🙏🏿 Acknowledgement 
+
+Templates and tutorials are from AppBrewy and Coding Chris
+1.  AppBrewCo - Dr Angela Yu
+2.  Coding with Chris 
