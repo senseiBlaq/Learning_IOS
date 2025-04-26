@@ -1,4 +1,4 @@
-# 📱 iOS Projects Collection
+# 📱 iOS Tutotial Companion App Collection
 
 
 
@@ -14,6 +14,7 @@ Each project is organized in its own directory and demonstrates key concepts in 
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | 📓 **[Card Display](./card/README.md)** | An app showing the tile with image and information. | [Go to Project ›](./card) |
+| 🎲🃏 **[Logic Game ](./logic_game/README.md)** | An app showing the logic of choice game in Dice and War card game . | [Go to Project ›](./logic_game) |
 | ☀️ **[Weatherly](./Weatherly/README.md)** | A SwiftUI weather app fetching real-time data from OpenWeatherMap API. | [Go to Project ›](./Weatherly) |
 | 🎵 **[TuneWave](./TuneWave/README.md)** | A music streaming UI clone built with UIKit and AVFoundation. | [Go to Project ›](./TuneWave) |
 | 🧠 **[FocusMate](./FocusMate/README.md)** | A Pomodoro timer app with notifications and animations. | [Go to Project ›](./FocusMate) |
